@@ -100,4 +100,4 @@ def main():
 if __name__ == '__main__':
     main()
 #%%
-# TO DEPLOY THE BOT: streamlit run Python_Bot.ipynb
+# TO DEPLOY THE BOT: streamlit run Python_Bot.py
